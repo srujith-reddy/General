@@ -1,0 +1,42 @@
+/* .App{
+    font-family: poppins;
+    height:100vh;
+    display:flex;
+     background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
+    justify-content:center;
+    align-items:center;
+}
+
+.App-header{
+    width:50rem;    
+    height:20rem;
+    background-color:white;
+    border-radius:20px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+.form{
+    display:flex;
+    justify-self:center;
+    align-items: center;
+    flex-direction: column;
+    padding:10px;
+}
+
+.Submit_btn{
+    margin:20px;
+    background-color: #a18cd1;
+    border-radius: 5px;
+    width:100px;
+    height:25px;
+} */
+
+
+.sub_btn{
+    width:50px;
+    height:25px;
+}
